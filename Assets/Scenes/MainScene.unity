@@ -3245,10 +3245,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "play the character to reach the end. In the road, need to avoid the red
-    traps, be careful of the yellow jump platform, and can only stand for 3 seconds
-    blue falling platform.\n\nUSE \"W\" \"S\" \"A\" \"D\" to move Charater, mouse
-    to change direction, \u201CSpace\u201D to Jump. \"ESC\" to pause.\n"
+  m_Text: "play the character within the time limit to reach the end. In the road,
+    need to avoid the red traps, be careful of the yellow jump platform, and can
+    only stand for 3 seconds blue falling platform.\n\nUSE \"W\" \"S\" \"A\" \"D\"
+    to move Charater, mouse to change direction, \u201CSpace\u201D to Jump. \"ESC\"
+    to pause.\n"
 --- !u!222 &1923260551
 CanvasRenderer:
   m_ObjectHideFlags: 0
